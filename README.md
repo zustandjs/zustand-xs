@@ -10,6 +10,7 @@ XState/store compabile middleware for Zustand
 ## Motivation
 
 Just for fun.
+Inspired by https://tkdodo.eu/blog/introducing-x-state-store.
 
 ## Install
 
@@ -84,3 +85,5 @@ You can also try them directly:
 [01](https://stackblitz.com/github/zustandjs/zustand-xs/tree/main/examples/01_counter)
 
 ## Tweets
+
+- https://x.com/dai_shi/status/1819232740749070438
