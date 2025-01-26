@@ -12,7 +12,7 @@
     "jsx": "react-jsx",
     "baseUrl": ".",
     "paths": {
-      "zustand-xs": ["./src/index.js"]
+      "zustand-xs": ["./src/index.ts"]
     }
   },
   "exclude": ["dist", "examples"]
